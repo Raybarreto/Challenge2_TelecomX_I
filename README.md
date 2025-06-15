@@ -94,11 +94,6 @@ As imagens são exibidas automaticamente via `matplotlib.pyplot.show()`.
 * Python básico/intermediário
 * Conhecimentos de EDA
 * Familiaridade com bibliotecas: `pandas, numpy, seaborn, matplotlib`
-    
-## 🔧 Possíveis Melhorias Futuras
-* Criação de um modelo de machine learning para prever churn.
-* Implementar interface web (ex: Streamlit ou Dash).
-* Exportar relatórios em PDF ou HTML com os gráficos.
 
 ## 📬 Contato
 Para dúvidas ou sugestões:
